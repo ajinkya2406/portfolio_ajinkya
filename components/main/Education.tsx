@@ -3,19 +3,19 @@ import React from "react";
 const Education = () => {
     const educationDetails = [
         {
-            institution: "University A",
-            degree: "Bachelor of Science in Computer Science",
-            year: "2015 - 2019",
-        },
-        {
-            institution: "University B",
-            degree: "Master of Science in Software Engineering",
+            institution: "Army Public School Kirkee",
+            degree: "Commerce",
             year: "2019 - 2021",
         },
         {
-            institution: "University C",
-            degree: "Ph.D. in Artificial Intelligence",
-            year: "2021 - Present",
+            institution: "Modern College of arts, science and commerce, GaneshKhind",
+            degree: "Bacholers of Computer Application",
+            year: "2021 - 2024",
+        },
+        {
+            institution: "Ajeenkya DY Patil University",
+            degree: "Master of Computer Application",
+            year: "2024 - Present",
         },
     ];
 
